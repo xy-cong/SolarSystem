@@ -1,6 +1,6 @@
-# My_SolarSystem
+## My_SolarSystem
 
-Achieve：
+# Achieve：
 
 1. The revolution of eight planets in the solar system
 2. The moon orbits the earth
@@ -8,8 +8,8 @@ Achieve：
 4. View control:
    1. q-a : view -- up & down
    2. w-s : view -- right & left
-   3. e-d : view -- forward & backward
-   4. "esc" : Exit(0)
+   3. e-d : view -- forward & backwardCancel changes
+   4. "Esc" : Exit(0)
    5. mouse button : control the camera flexibly
       1. left mouse button : EYEX / EYEY / EYEZ (rotate around axes)
       2. right mouse button : upX / upZ 
